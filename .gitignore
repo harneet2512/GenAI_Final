@@ -1,0 +1,99 @@
+# Environment
+.env
+.env.local
+.env.*
+!.env.example
+!.env.template
+
+# Files that may contain API keys (user-specific setup scripts)
+set_openai_key.py
+set_sdxl_key.py
+update_env_keys.py
+
+# Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Data (large files)
+data/raw/**/*
+!data/raw/.gitkeep
+data/processed/**/*
+!data/processed/.gitkeep
+data/descriptions/**/*
+!data/descriptions/.gitkeep
+
+# FAISS indexes
+rag_pipeline/faiss_indexes/*.index
+rag_pipeline/faiss_indexes/*.json
+
+# Generated images
+image_generation/outputs/**/*.png
+image_generation/ground_truth/**/*.png
+images/q3/**/*.png
+images/q3/**/archive/
+# Keep manifest and prompts JSON (small metadata files)
+!images/q3/**/manifest.json
+!images/q3/**/prompts.json
+
+# Agent app data (contains HTML files and state)
+agent_app/data/html/**/*
+!agent_app/data/html/.gitkeep
+agent_app/data/raw/**/*
+!agent_app/data/raw/.gitkeep
+agent_app/data/state/**/*.json
+!agent_app/data/state/.gitkeep
+
+# Analysis outputs (optional - can be regenerated)
+# analysis/*.json
+# analysis/*.md
+
+# Reports (optional - can be regenerated)
+# report/workflow_outputs/*.md
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Screenshots and temporary files
+*.png
+!images/real/**/*.png
+!**/logo*.png
+!**/icon*.png
+Screenshot*.png
+
+

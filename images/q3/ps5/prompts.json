@@ -1,0 +1,47 @@
+{
+  "product_id": "ps5",
+  "prompts": [
+    {
+      "product_id": "ps5",
+      "model": "dalle3",
+      "variant_id": "v1",
+      "text": "High-resolution studio product photograph of PlayStation®5 Digital Edition (Slim) showing a tall console with a slim, vertical profile and curved side panels with white matte plastic and black accents in white, black featuring PlayStation logo with key features such as Marvel's Spider-Man 2 themed, slim design Clean white background, soft studio lighting, sharp focus, accurate proportions.",
+      "guidance_notes": "Catalog-style studio shot with white background"
+    },
+    {
+      "product_id": "ps5",
+      "model": "sdxl",
+      "variant_id": "v1",
+      "text": "High-resolution studio product photograph of PlayStation®5 Digital Edition (Slim) showing a tall console with a slim, vertical profile and curved side panels with white matte plastic and black accents in white, black featuring PlayStation logo with key features such as Marvel's Spider-Man 2 themed, slim design Clean white background, soft studio lighting, sharp focus, accurate proportions.",
+      "guidance_notes": "Catalog-style studio shot with white background"
+    },
+    {
+      "product_id": "ps5",
+      "model": "dalle3",
+      "variant_id": "v2",
+      "text": "Realistic lifestyle image of PlayStation®5 Digital Edition (Slim) showing a tall console with a slim, vertical profile and curved side panels being used under a TV in white, black with white matte plastic and black accents finish showing the full product clearly while keeping the surroundings slightly blurred. Natural lighting, photographic realism.",
+      "guidance_notes": "Lifestyle shot showing product in use"
+    },
+    {
+      "product_id": "ps5",
+      "model": "sdxl",
+      "variant_id": "v2",
+      "text": "Realistic lifestyle image of PlayStation®5 Digital Edition (Slim) showing a tall console with a slim, vertical profile and curved side panels being used under a TV in white, black with white matte plastic and black accents finish showing the full product clearly while keeping the surroundings slightly blurred. Natural lighting, photographic realism.",
+      "guidance_notes": "Lifestyle shot showing product in use"
+    },
+    {
+      "product_id": "ps5",
+      "model": "dalle3",
+      "variant_id": "v3",
+      "text": "Close-up product photograph of PlayStation®5 Digital Edition (Slim), focusing on PlayStation logo and material texture, in white, black, with realistic texture, subtle reflections.",
+      "guidance_notes": "Close-up detail shot with realistic textures"
+    },
+    {
+      "product_id": "ps5",
+      "model": "sdxl",
+      "variant_id": "v3",
+      "text": "Close-up product photograph of PlayStation®5 Digital Edition (Slim), focusing on PlayStation logo and material texture, in white, black, with realistic texture, subtle reflections.",
+      "guidance_notes": "Close-up detail shot with realistic textures"
+    }
+  ]
+}

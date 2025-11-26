@@ -1,0 +1,93 @@
+{
+  "product_id": "ps5",
+  "last_updated": "2025-11-26T01:59:04.277226+00:00",
+  "images": [
+    {
+      "product_id": "ps5",
+      "model": "dalle3",
+      "prompt_id": "v1",
+      "prompt_text": "High-resolution studio product photograph of PlayStation®5 Digital Edition (Slim) showing a tall console with a slim, vertical profile and curved side panels with white matte plastic and black accents in white, black featuring PlayStation logo with key features such as Marvel's Spider-Man 2 themed, slim design Clean white background, soft studio lighting, sharp focus, accurate proportions.",
+      "output_path": "ps5\\dalle3\\v1\\v1_1.png",
+      "run_id": "2025-11-26T01:52:55.327402+00:00",
+      "run_started_at": "2025-11-26T01:52:55.327402+00:00",
+      "run_finished_at": "2025-11-26T01:54:37.745587+00:00",
+      "status": "success",
+      "image_index": 1,
+      "filepath": "images\\q3\\ps5\\dalle3\\v1\\v1_1.png",
+      "timestamp": "2025-11-26T01:54:37.745587+00:00"
+    },
+    {
+      "product_id": "ps5",
+      "model": "dalle3",
+      "prompt_id": "v2",
+      "prompt_text": "Realistic lifestyle image of PlayStation®5 Digital Edition (Slim) showing a tall console with a slim, vertical profile and curved side panels being used under a TV in white, black with white matte plastic and black accents finish showing the full product clearly while keeping the surroundings slightly blurred. Natural lighting, photographic realism.",
+      "output_path": "ps5\\dalle3\\v2\\v2_1.png",
+      "run_id": "2025-11-26T01:52:55.327402+00:00",
+      "run_started_at": "2025-11-26T01:52:55.327402+00:00",
+      "run_finished_at": "2025-11-26T01:54:49.966896+00:00",
+      "status": "success",
+      "image_index": 1,
+      "filepath": "images\\q3\\ps5\\dalle3\\v2\\v2_1.png",
+      "timestamp": "2025-11-26T01:54:49.966896+00:00"
+    },
+    {
+      "product_id": "ps5",
+      "model": "dalle3",
+      "prompt_id": "v3",
+      "prompt_text": "Close-up product photograph of PlayStation®5 Digital Edition (Slim), focusing on PlayStation logo and material texture, in white, black, with realistic texture, subtle reflections.",
+      "output_path": "ps5\\dalle3\\v3\\v3_1.png",
+      "run_id": "2025-11-26T01:52:55.327402+00:00",
+      "run_started_at": "2025-11-26T01:52:55.327402+00:00",
+      "run_finished_at": "2025-11-26T01:55:02.178564+00:00",
+      "status": "success",
+      "image_index": 1,
+      "filepath": "images\\q3\\ps5\\dalle3\\v3\\v3_1.png",
+      "timestamp": "2025-11-26T01:55:02.178564+00:00"
+    },
+    {
+      "product_id": "ps5",
+      "model": "sdxl",
+      "prompt_id": "v1",
+      "prompt_text": "High-resolution studio product photograph of PlayStation®5 Digital Edition (Slim) showing a tall console with a slim, vertical profile and curved side panels with white matte plastic and black accents in white, black featuring PlayStation logo with key features such as Marvel's Spider-Man 2 themed, slim design Clean white background, soft studio lighting, sharp focus, accurate proportions.",
+      "output_path": null,
+      "run_id": "2025-11-26T01:52:55.327402+00:00",
+      "run_started_at": "2025-11-26T01:52:55.327402+00:00",
+      "run_finished_at": "2025-11-26T01:56:17.783085+00:00",
+      "status": "failed",
+      "error": "http_error",
+      "error_message": "Rate limit exceeded after 2 retries",
+      "image_index": 1,
+      "timestamp": "2025-11-26T01:56:17.783085+00:00"
+    },
+    {
+      "product_id": "ps5",
+      "model": "sdxl",
+      "prompt_id": "v2",
+      "prompt_text": "Realistic lifestyle image of PlayStation®5 Digital Edition (Slim) showing a tall console with a slim, vertical profile and curved side panels being used under a TV in white, black with white matte plastic and black accents finish showing the full product clearly while keeping the surroundings slightly blurred. Natural lighting, photographic realism.",
+      "output_path": null,
+      "run_id": "2025-11-26T01:52:55.327402+00:00",
+      "run_started_at": "2025-11-26T01:52:55.327402+00:00",
+      "run_finished_at": "2025-11-26T01:57:41.017634+00:00",
+      "status": "failed",
+      "error": "http_error",
+      "error_message": "Rate limit exceeded after 2 retries",
+      "image_index": 1,
+      "timestamp": "2025-11-26T01:57:41.017634+00:00"
+    },
+    {
+      "product_id": "ps5",
+      "model": "sdxl",
+      "prompt_id": "v3",
+      "prompt_text": "Close-up product photograph of PlayStation®5 Digital Edition (Slim), focusing on PlayStation logo and material texture, in white, black, with realistic texture, subtle reflections.",
+      "output_path": null,
+      "run_id": "2025-11-26T01:52:55.327402+00:00",
+      "run_started_at": "2025-11-26T01:52:55.327402+00:00",
+      "run_finished_at": "2025-11-26T01:59:04.274703+00:00",
+      "status": "failed",
+      "error": "http_error",
+      "error_message": "Rate limit exceeded after 2 retries",
+      "image_index": 1,
+      "timestamp": "2025-11-26T01:59:04.274703+00:00"
+    }
+  ]
+}

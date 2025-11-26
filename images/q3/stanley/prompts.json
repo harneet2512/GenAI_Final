@@ -1,0 +1,47 @@
+{
+  "product_id": "stanley",
+  "prompts": [
+    {
+      "product_id": "stanley",
+      "model": "dalle3",
+      "variant_id": "v1",
+      "text": "High-resolution studio product photograph of STANLEY Quencher H2.0 Tumbler showing a cylindrical with a handle with recycled BPA-free stainless steel in pink, lilac, darker colors featuring Stanley logo with key features such as FlowState lid with three positions, comfort-grip handle Clean white background, soft studio lighting, sharp focus, accurate proportions.",
+      "guidance_notes": "Catalog-style studio shot with white background"
+    },
+    {
+      "product_id": "stanley",
+      "model": "sdxl",
+      "variant_id": "v1",
+      "text": "High-resolution studio product photograph of STANLEY Quencher H2.0 Tumbler showing a cylindrical with a handle with recycled BPA-free stainless steel in pink, lilac, darker colors featuring Stanley logo with key features such as FlowState lid with three positions, comfort-grip handle Clean white background, soft studio lighting, sharp focus, accurate proportions.",
+      "guidance_notes": "Catalog-style studio shot with white background"
+    },
+    {
+      "product_id": "stanley",
+      "model": "dalle3",
+      "variant_id": "v2",
+      "text": "Realistic lifestyle image of STANLEY Quencher H2.0 Tumbler showing a cylindrical with a handle being used travel in pink, lilac with recycled BPA-free stainless steel finish showing the full product clearly while keeping the surroundings slightly blurred. Natural lighting, photographic realism.",
+      "guidance_notes": "Lifestyle shot showing product in use"
+    },
+    {
+      "product_id": "stanley",
+      "model": "sdxl",
+      "variant_id": "v2",
+      "text": "Realistic lifestyle image of STANLEY Quencher H2.0 Tumbler showing a cylindrical with a handle being used travel in pink, lilac with recycled BPA-free stainless steel finish showing the full product clearly while keeping the surroundings slightly blurred. Natural lighting, photographic realism.",
+      "guidance_notes": "Lifestyle shot showing product in use"
+    },
+    {
+      "product_id": "stanley",
+      "model": "dalle3",
+      "variant_id": "v3",
+      "text": "Close-up product photograph of STANLEY Quencher H2.0 Tumbler, focusing on Stanley logo and material texture, in pink, lilac, with realistic texture, subtle reflections, Optionally include very minor wear consistent with normal use if reviews mention scratches easily.",
+      "guidance_notes": "Close-up detail shot with realistic textures"
+    },
+    {
+      "product_id": "stanley",
+      "model": "sdxl",
+      "variant_id": "v3",
+      "text": "Close-up product photograph of STANLEY Quencher H2.0 Tumbler, focusing on Stanley logo and material texture, in pink, lilac, with realistic texture, subtle reflections, Optionally include very minor wear consistent with normal use if reviews mention scratches easily.",
+      "guidance_notes": "Close-up detail shot with realistic textures"
+    }
+  ]
+}

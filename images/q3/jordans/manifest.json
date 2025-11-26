@@ -1,0 +1,93 @@
+{
+  "product_id": "jordans",
+  "last_updated": "2025-11-26T02:14:56.193401+00:00",
+  "images": [
+    {
+      "product_id": "jordans",
+      "model": "dalle3",
+      "prompt_id": "v1",
+      "prompt_text": "High-resolution studio product photograph of Nike Men's Court Vision Mid Next Nature Shoes showing a mid-top retro basketball-style with some recycled materials in white featuring Nike logo with key features such as classic look, old skool look Clean white background, soft studio lighting, sharp focus, accurate proportions.",
+      "output_path": "jordans\\dalle3\\v1\\v1_1.png",
+      "run_id": "2025-11-26T02:09:46.897942+00:00",
+      "run_started_at": "2025-11-26T02:09:46.897942+00:00",
+      "run_finished_at": "2025-11-26T02:10:24.657009+00:00",
+      "status": "success",
+      "image_index": 1,
+      "filepath": "images\\q3\\jordans\\dalle3\\v1\\v1_1.png",
+      "timestamp": "2025-11-26T02:10:24.657009+00:00"
+    },
+    {
+      "product_id": "jordans",
+      "model": "dalle3",
+      "prompt_id": "v2",
+      "prompt_text": "Realistic lifestyle image of Nike Men's Court Vision Mid Next Nature Shoes showing a mid-top retro basketball-style being used dry days in white with some recycled materials finish showing the full product clearly while keeping the surroundings slightly blurred. Natural lighting, photographic realism.",
+      "output_path": "jordans\\dalle3\\v2\\v2_1.png",
+      "run_id": "2025-11-26T02:09:46.897942+00:00",
+      "run_started_at": "2025-11-26T02:09:46.897942+00:00",
+      "run_finished_at": "2025-11-26T02:10:40.116971+00:00",
+      "status": "success",
+      "image_index": 1,
+      "filepath": "images\\q3\\jordans\\dalle3\\v2\\v2_1.png",
+      "timestamp": "2025-11-26T02:10:40.116971+00:00"
+    },
+    {
+      "product_id": "jordans",
+      "model": "dalle3",
+      "prompt_id": "v3",
+      "prompt_text": "Close-up product photograph of Nike Men's Court Vision Mid Next Nature Shoes, focusing on Nike logo and material texture, in white, with realistic texture, subtle reflections.",
+      "output_path": "jordans\\dalle3\\v3\\v3_1.png",
+      "run_id": "2025-11-26T02:09:46.897942+00:00",
+      "run_started_at": "2025-11-26T02:09:46.897942+00:00",
+      "run_finished_at": "2025-11-26T02:10:54.243671+00:00",
+      "status": "success",
+      "image_index": 1,
+      "filepath": "images\\q3\\jordans\\dalle3\\v3\\v3_1.png",
+      "timestamp": "2025-11-26T02:10:54.243671+00:00"
+    },
+    {
+      "product_id": "jordans",
+      "model": "sdxl",
+      "prompt_id": "v1",
+      "prompt_text": "High-resolution studio product photograph of Nike Men's Court Vision Mid Next Nature Shoes showing a mid-top retro basketball-style with some recycled materials in white featuring Nike logo with key features such as classic look, old skool look Clean white background, soft studio lighting, sharp focus, accurate proportions.",
+      "output_path": null,
+      "run_id": "2025-11-26T02:09:46.897942+00:00",
+      "run_started_at": "2025-11-26T02:09:46.897942+00:00",
+      "run_finished_at": "2025-11-26T02:12:10.215996+00:00",
+      "status": "failed",
+      "error": "http_error",
+      "error_message": "Rate limit exceeded after 2 retries",
+      "image_index": 1,
+      "timestamp": "2025-11-26T02:12:10.215996+00:00"
+    },
+    {
+      "product_id": "jordans",
+      "model": "sdxl",
+      "prompt_id": "v2",
+      "prompt_text": "Realistic lifestyle image of Nike Men's Court Vision Mid Next Nature Shoes showing a mid-top retro basketball-style being used dry days in white with some recycled materials finish showing the full product clearly while keeping the surroundings slightly blurred. Natural lighting, photographic realism.",
+      "output_path": null,
+      "run_id": "2025-11-26T02:09:46.897942+00:00",
+      "run_started_at": "2025-11-26T02:09:46.897942+00:00",
+      "run_finished_at": "2025-11-26T02:13:33.406886+00:00",
+      "status": "failed",
+      "error": "http_error",
+      "error_message": "Rate limit exceeded after 2 retries",
+      "image_index": 1,
+      "timestamp": "2025-11-26T02:13:33.406886+00:00"
+    },
+    {
+      "product_id": "jordans",
+      "model": "sdxl",
+      "prompt_id": "v3",
+      "prompt_text": "Close-up product photograph of Nike Men's Court Vision Mid Next Nature Shoes, focusing on Nike logo and material texture, in white, with realistic texture, subtle reflections.",
+      "output_path": null,
+      "run_id": "2025-11-26T02:09:46.897942+00:00",
+      "run_started_at": "2025-11-26T02:09:46.897942+00:00",
+      "run_finished_at": "2025-11-26T02:14:56.192416+00:00",
+      "status": "failed",
+      "error": "http_error",
+      "error_message": "Rate limit exceeded after 2 retries",
+      "image_index": 1,
+      "timestamp": "2025-11-26T02:14:56.192416+00:00"
+    }
+  ]
+}
